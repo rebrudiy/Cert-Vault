@@ -23,4 +23,4 @@ aliases: [PEM, DER, PKCS12, p12, pfx]
 
 ## Related
 - [[X.509 Certificate]]
-- [[TLS Handshake]]
+- [[TLS 1.3 Handshake]]

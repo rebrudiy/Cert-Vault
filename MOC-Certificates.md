@@ -28,7 +28,7 @@ Prerequisites before touching certificates:
 - Email certificates (S/MIME)
 
 ### Stage 5 — TLS (certificates in action)
-- [[TLS Handshake]] — how certificates are used in TLS
+- [[TLS 1.3 Handshake]] — how certificates are used in TLS
 - TLS 1.2 vs TLS 1.3 differences
 - SNI (Server Name Indication)
 - Certificate pinning
@@ -61,7 +61,7 @@ Prerequisites before touching certificates:
 - [[Certificate Types]]
 
 ### In Practice
-- [[TLS Handshake]]
+- [[TLS 1.3 Handshake]]
 - [[Certificate Formats]]
 
 ---

@@ -34,4 +34,4 @@ aliases: [DV, OV, EV, wildcard certificate, SAN certificate]
 ## Related
 - [[X.509 Certificate]]
 - [[Certificate Authority]]
-- [[TLS Handshake]]
+- [[TLS 1.3 Handshake]]
